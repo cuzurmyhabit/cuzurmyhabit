@@ -28,23 +28,21 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=cuzurmyhabit&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuzurmyhabit&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> 
-    </div> 
-    </div>
-    
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/izowuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izowuiw" height="30" width="40" /></a>
-</p>
-
-#
-
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuzurmyhabit&show_icons=true&locale=en&layout=compact" alt="cuzurmyhabit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuzurmyhabit&show_icons=true&locale=en" alt="cuzurmyhabit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuzurmyhabit&" alt="cuzurmyhabit" /></p>
 
+
+    </div> 
+    </div>
+    
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+</p>
+
+#
