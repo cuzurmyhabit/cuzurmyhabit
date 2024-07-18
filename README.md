@@ -10,9 +10,9 @@
 <a href="https://instagram.com/izowuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izowuiw" height="30" width="40" /></a>
 </p>
 
-- 📝 I regularly write articles on [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
+- 📝 오늘이 가장 모르는 게 많은 날이에요 저의 기록이 궁금하시다면 [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
 
-- 📫 How to reach me **s2472@e-mirim.hs.kr**
+- 📫 저와 연락을 원하신다면 **s2472@e-mirim.hs.kr**
 #
 
 <br> 
@@ -25,7 +25,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="azure" width="40" height="40"/> </a>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
           <br/></div>
     </div>
     <div style="text-align: left;">  </div> 
