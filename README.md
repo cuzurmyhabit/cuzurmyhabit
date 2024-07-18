@@ -12,6 +12,12 @@
 - 📫 How to reach me **s2472@e-mirim.hs.kr**
 
 #
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+</p>
+
+#
 <br> 
     </div>
     <div style="text-align: left;">
@@ -34,15 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuzurmyhabit&show_icons=true&locale=en" alt="cuzurmyhabit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuzurmyhabit&" alt="cuzurmyhabit" /></p>
-
-
-    </div> 
-    </div>
-    
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-</p>
-
-#
