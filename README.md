@@ -13,7 +13,7 @@
 <a href="https://instagram.com/izowuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izowuiw" height="30" width="40" /></a>
 </p>
         
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuzurmthabit" alt="cuzurmthabit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuzurabit" alt="cuzurmyhabit" /></a> </p>
 
 - 📝 I regularly write articles on [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
 
