@@ -5,15 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐋 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 넓고 넓은 바다에서 아주 작은 고래 한 마리 같은 사람이 되기를</li><li> 지난 어제에 미련을 갖지 않는 꼬마개발자 지수민입니다 :> </div> 
 
-
-#
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://instagram.com/izowuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izowuiw" height="30" width="40" /></a>
 </p>
-        
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuzurabit" alt="cuzurmyhabit" /></a> </p>
 
 - 📝 I regularly write articles on [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
 
