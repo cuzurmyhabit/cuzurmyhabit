@@ -13,7 +13,6 @@
 - 📝 오늘이 가장 모르는 게 많은 날이에요 저의 기록이 궁금하시다면 [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
 
 - 📫 저와 연락을 원하신다면 **s2472@e-mirim.hs.kr**
-#
 
 <br> 
     </div>
