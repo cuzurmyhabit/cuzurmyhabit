@@ -10,7 +10,7 @@
 <a href="https://instagram.com/izowuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izowuiw" height="30" width="40" /></a>
 </p>
 
-- 📝 저의 기록이 궁금하시다면 [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
+- 🍀 저의 기록이 궁금하시다면 [https://velog.io/@cuzurmyhabit/posts](https://velog.io/@cuzurmyhabit/posts)
 
 - 📫 저와 연락을 원하신다면 **s2472@e-mirim.hs.kr**
 
