@@ -18,7 +18,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-       <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+       <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="47" height="47" /></div>
         
     <div style="text-align: left;">  </div> 
     </div>
