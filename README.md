@@ -1,5 +1,7 @@
 
 <h1>아 집 가고 싶다 으아아악ㅜㅜ</h1>
+<li>헬로 월드, 아임 수민! 💖</li>
+<li>할줄아는거없어서모두모두깔짝대는중😪</li>
 <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐋 About Me </h2>  
