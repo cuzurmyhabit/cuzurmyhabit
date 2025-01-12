@@ -6,17 +6,17 @@
 
 <br>
 
-## Language
+## ⌨️ Language
 <div style="text-align: left;">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,dart" />
 </div>
 
-## FrameWork
+## 💻 FrameWork
 <div style="text-align: left;">
     <img src="https://skillicons.dev/icons?i=spring,react,flutter" />
 </div>
 
-## Tool
+## 🖨️ Tool
 <div style="text-align: left;">
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,github,figma,discord" />
 </div>
