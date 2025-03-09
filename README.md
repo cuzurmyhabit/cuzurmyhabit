@@ -23,6 +23,3 @@
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,github,figma,discord" />
 </div>
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzurmyhabit&layout=compact)
