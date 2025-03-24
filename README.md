@@ -1,3 +1,9 @@
+
+
+<a href="https://github.com/cuzurmyhabit/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{cuzurmyhabit}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h2 align="left">👨‍💻 About Me</h2>
 
 - 🤗 안녕하세요! 지나간 어제에는 미련 없는 날들을 보내고 싶은 개발자 [지수민](https://instagram.com/izowuiw)입니다!
