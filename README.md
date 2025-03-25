@@ -6,6 +6,10 @@
   - 📬 Contact me [here](mailto:s2472@e-mirim.hs.kr).
   - 💻 I'm currently using flutter, Typescript, ect...
     
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{cuzurmyhabit}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cuzurmyhabit&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cuzurmyhabit"
+  width="600"
+  height="300"
+/>
 </a>
