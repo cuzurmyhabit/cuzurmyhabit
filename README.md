@@ -7,6 +7,5 @@
   - 💻 I'm currently using flutter, Typescript, ect...
     
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{cuzurmyhabit}?pet-id=1" width="1000" height="200"/>
-</a>
+  <img src="https://render.gitanimals.org/farms/{cuzurmyhabit}"/>
 </a>
