@@ -1,6 +1,6 @@
 <h2 align="left">Hello, World!</h2>
 
-  - 🤗 Hi, there. I'm [Soomin Ji](https://instagram.com/izowuiw).
+  - 🤗 Hi, I'm Frontend developer [Soomin Ji](https://instagram.com/izowuiw).
   - 🏫 I'm studying at [Mirim Meister High School](https://www.e-mirim.hs.kr/main.do).
   - 📑 [This](https://velog.io/@cuzurmyhabit/posts) is my Blog.
   - 📬 Contact me [here](mailto:s2472@e-mirim.hs.kr).
