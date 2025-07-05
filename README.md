@@ -5,8 +5,6 @@
   - 📑 [This](https://velog.io/@cuzurmyhabit/posts) is my Blog.
   - 📬 Contact me [s2472@e-mirim.hs.kr](mailto:s2472@e-mirim.hs.kr).
   - 💻 I'm currently learning Flutter, Typescript, ect...
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/cuzurmyhabit?theme=light&posts=3)
     
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cuzurmyhabit&utm_content=farm">
 <img
