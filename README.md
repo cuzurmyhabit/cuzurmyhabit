@@ -1,4 +1,4 @@
-<h3 align="left">Hello, World!🥰</h3>
+<h3 align="left">Hello, World!</h3>
 
   - 🤗 Hi, I'm Frontend Developer [Soomin Ji](https://instagram.com/cuzurmyhabit).
   - 🏫 I'm studying at [Mirim Meister High School](https://www.e-mirim.hs.kr/main.do).
