@@ -10,7 +10,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cuzurmyhabit&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/cuzurmyhabit"
-  width="600"
+  width="800"
   height="300"
 />
 </a>
