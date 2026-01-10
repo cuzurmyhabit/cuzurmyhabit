@@ -11,6 +11,6 @@
 <img
   src="https://render.gitanimals.org/farms/cuzurmyhabit"
   width="800"
-  height="300"
+  height="400"
 />
 </a>
