@@ -6,7 +6,9 @@
   - 📬 Contact me [s2472@e-mirim.hs.kr](mailto:s2472@e-mirim.hs.kr).
   - 💻 I'm currently learning Flutter, Typescript, ect...
      -->
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FXYzZauasszI%3Fsi%3DTC_QbD3nekGTl5kT&theme=stream"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FXYzZauasszI%3Fsi%3DTC_QbD3nekGTl5kT&theme=stream" alt="SoundBadge" /></a>
+<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWO050_ZYD1g%3Fsi%3DO6ArnSsfVZUVE7Cc&theme=stream">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWO050_ZYD1g%3Fsi%3DO6ArnSsfVZUVE7Cc&theme=stream" alt="SoundBadge" />
+</a>
 
 
 
