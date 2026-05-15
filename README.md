@@ -6,8 +6,8 @@
   - 📬 Contact me [s2472@e-mirim.hs.kr](mailto:s2472@e-mirim.hs.kr).
   - 💻 I'm currently learning ReactNative, Typescript, ect... -->
 
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWO050_ZYD1g%3Fsi%3DO6ArnSsfVZUVE7Cc&theme=stream">
-  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWO050_ZYD1g%3Fsi%3DO6ArnSsfVZUVE7Cc&theme=stream" alt="SoundBadge" />
+<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream" alt="SoundBadge" />
 </a>
 
 
