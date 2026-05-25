@@ -7,6 +7,7 @@
   - 💻 I'm currently learning ReactNative, Typescript, ect... -->
 
 <a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream">
+  
   <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream" alt="SoundBadge" />
 </a>
 
