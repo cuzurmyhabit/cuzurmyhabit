@@ -6,11 +6,7 @@
   - 📬 Contact me [s2472@e-mirim.hs.kr](mailto:s2472@e-mirim.hs.kr).
   - 💻 I'm currently learning ReactNative, Typescript, ect... -->
 
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream">
-  
-  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F5_K85U2qXuw%3Fsi%3DQFqNNqHI6xHKFeKf&theme=stream" alt="SoundBadge" />
-</a>
-
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FxyUQKDE57Ag%3Fsi%3DMpIIvEGfAbaueIws&url=https%3A%2F%2Fyoutu.be%2FsElE_BfQ67s%3Fsi%3DVh5f1WvBSnNYgbnh&url=https%3A%2F%2Fyoutu.be%2FuzS3WG6__G4%3Fsi%3D_5vw_4ZHrY78QS9_&url=https%3A%2F%2Fyoutu.be%2FSjgMmo6_DH0%3Fsi%3DM9qkuVgGUsUnu5Yw&theme=stream&variant=pink)](https://youtu.be/xyUQKDE57Ag?si=MpIIvEGfAbaueIws)
 
 
 
